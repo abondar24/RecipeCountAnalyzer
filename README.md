@@ -1,4 +1,4 @@
-# RecipeCountAnalyzer  
+# Recipe Count Analyzer  
 
 A small golang app to analyze recipes and their popularity. 
 It also gives delivery stats for selected postcode and timeslot and performs a search among recipes by selected keyword
